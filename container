@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <title>bootstrap framework 
+    </title>
+    <style>
+        .red-container {
+            background-color: red;
+            color: white;
+            margin-top: 50px;
+            padding: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container red-container">.contanair</div>
+    <div class="container-sm red-container">.contanair-sm</div>
+    <div class="container-md red-container">.contanair-md</div>
+    <div class="containe-lg red-container">.contanair-lg</div>
+    <div class="container-xl red-container">.contanair-xl</div>
+    <div class="container-xxl red-container">.contanair-xxl</div>
+    <div class="container-fuid red-container">.contanair-fluid</div>
+    <div class="container-xs red-container">.contanair-xs</div>
+</body>
+</html>
